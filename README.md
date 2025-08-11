@@ -1,3 +1,3 @@
 # This is new project 
 
-# Added to the remote repository 
+Added to the remote repository 
